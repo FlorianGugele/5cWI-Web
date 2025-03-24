@@ -4,6 +4,6 @@ type Props = {}
 
 export default function NotFound({}: Props) {
   return (
-    <div>We have a problem</div>
+    <div>We have a big problem</div>
   )
 }
