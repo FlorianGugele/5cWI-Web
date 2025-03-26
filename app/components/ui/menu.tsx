@@ -11,6 +11,9 @@ export default function Menu() {
             <li className='p-2 hover:bg-red-400'>
                 <Link href="/cars">Cars</Link>
             </li>
+            <li className='p-2 hover:bg-red-400'>
+                <Link href="/airplane">Airplane</Link>
+            </li>
         </ul>
     </div>
   )
